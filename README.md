@@ -5,8 +5,8 @@ Hướng dẫn này cung cấp các bước chi tiết để cài đặt MinGW-w
 ## Yêu cầu tiên quyết
 ## Trước khi bắt đầu, đảm bảo bạn đã có các điều kiện sau:
 
-Hệ điều hành Windows
-Đã cài đặt Visual Studio Code (VS Code) (Tải về tại đây: https://code.visualstudio.com/)
-Kết nối internet ổn định
+### Hệ điều hành Windows
+### Đã cài đặt Visual Studio Code (VS Code) (Tải về tại đây: https://code.visualstudio.com/)
+### Kết nối internet ổn định
 
 ## Các bước cài đặt
